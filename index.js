@@ -9,7 +9,7 @@ function validateEmail(){
     }
 }
 
-
+// yasatum1
 const rules="password must include: Minimum 6 Characters , an Uppercase Character , Lowercase Character , a Number and a Special Character (!, @, #, etc.)."
 
 function checkPassword(){ 
